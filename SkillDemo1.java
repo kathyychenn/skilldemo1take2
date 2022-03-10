@@ -1,1 +1,5 @@
-class SkillDemo1{} // write in vs code later
+class SkillDemo1{
+    public static String birthday(int age){
+        return "happy "  + age + "th birthday!";
+    }
+} // write in vs code later
